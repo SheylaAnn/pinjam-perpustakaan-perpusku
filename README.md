@@ -41,7 +41,7 @@ pip install tabulate
 
 ## Note:
 - Data is stored only while the program is running (non-persistent).
-- This project can be developed by adding a feature to check late book returns and their consequences.
+- This project can be developed by adding a feature to check late book returns.
 
 Author
 ------
