@@ -22,7 +22,8 @@ Role-based access: `admin` and `user`
   
 ## Flowchart
 The image below illustrates the flowchart of the program.
-
+![Flowchart](FLOW1.svg)
+![Flowchart](FLOW2.svg)
 
 ## How to run the program
 1. Make sure Python is installed (version 3.9.6).
