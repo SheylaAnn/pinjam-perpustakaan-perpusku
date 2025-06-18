@@ -694,7 +694,6 @@ def pinjam_buku(id_buku_pinjam):
     # Jika tersedia lebih dari 0
 
     keranjang_peminjaman.append(id_buku_pinjam)
-    print(f"Buku {buku_pinjam['Judul']} ditambahkan ke keranjang peminjaman")
                 
     # Konfirmasi peminjaman
     # User dikasih lihat rincian yang ingin dipinjam (ID & Judul)
